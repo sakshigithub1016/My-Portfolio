@@ -1,1 +1,2 @@
 # My-Portfolio
+This portfolio, developed using React JS, offers a detailed and professional summary of my expertise. It encompasses sections on my background, skills, education, work experience, projects, and extracurricular activities. The design ensures a comprehensive and refined presentation of my qualifications, effectively showcasing both my technical and interpersonal skills in a polished and engaging manner.
